@@ -1,3 +1,5 @@
+Demo Day Project - Working on Starter Api // Savage Auth in files as reference in my workspace.
+
 ## Installation
 
 1. Clone repo
